@@ -26,5 +26,13 @@ This Application is optimised for both Smart Phones and Tablets.
 
 ## OUTPUT
 
+- For Smart Phones:
 <img src="https://user-images.githubusercontent.com/57345756/162250630-a6b2a461-4647-4f4c-a150-b18162602e8f.gif" alt="gif" width="50%" />
+<br>
+
+- For Tablets :
+ <br>
+<img src="https://user-images.githubusercontent.com/57345756/162251467-90294170-80e2-48ff-9fac-f1726290e817.png" width="100%"/>
+
+
 
