@@ -1,20 +1,26 @@
 # Fav-List-Recycler-View-
-Mastering The Recycler view in android.. 
 
-Floating Action Button. 
+- Mastering The Recycler view in android.. 
 
-AlertBuilder .
+- Floating Action Button. 
 
-SharedPreferences (Storage Class and Manager Class). 
+- AlertBuilder .
+
+- SharedPreferences (Storage Class and Manager Class). 
 
 ## Master Interfaces (for data transfering)
 
-Activity Communication .
+- Activity Communication .
 
-OnBackPressed() .
+- OnBackPressed() .
 
-Intent -> onActivityResult() {Synchronization}.
+- Intent -> `onActivityResult()` {Synchronization}.
 
 ## Fragment Master.
 
 ## Material Design
+
+
+## OUTPUT
+
+<img src="https://user-images.githubusercontent.com/57345756/162245687-50b10d8a-9f13-4449-8d4e-87c60ba4712d.gif" alt="gif" width="30%" />
