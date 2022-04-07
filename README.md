@@ -1,5 +1,8 @@
 # Fav-List-Recycler-View-
 
+This Application is optimised for both Smart Phones and Tablets.
+
+
 - Mastering The Recycler view in android.. 
 
 - Floating Action Button. 
