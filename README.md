@@ -23,4 +23,5 @@
 
 ## OUTPUT
 
-<img src="https://user-images.githubusercontent.com/57345756/162245687-50b10d8a-9f13-4449-8d4e-87c60ba4712d.gif" alt="gif" width="30%" />
+<img src="https://user-images.githubusercontent.com/57345756/162250630-a6b2a461-4647-4f4c-a150-b18162602e8f.gif" alt="gif" width="50%" />
+
